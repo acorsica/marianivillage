@@ -1,7 +1,19 @@
 # Mariani Village
 **Mariani Village**, résidence d'étudiants écoresponsable, containers autonomes, Corte en hiver, la plage en été.
 
+## Cadrage actuel
 
+Mariani Village est une initiative d’habitat minimaliste autonome à base de containers maritimes, destinée à loger des étudiants pendant l’année universitaire et des touristes ou occupants saisonniers pendant la saison estivale.
+
+Documents de référence :
+
+- [`CADRAGE.md`](CADRAGE.md) — cadrage synthétique actuel du projet.
+- [`STATUT.md`](STATUT.md) — statut du dépôt et articulation institutionnelle.
+- [`JeanHuguesRobert/FractaVolta/mariani_village.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/mariani_village.md) — document source technique et conceptuel dans le corpus FractaVolta.
+
+Le contenu ci-dessous conserve l’historique du projet, notamment des publications et éléments de conception antérieurs.
+
+---
 
 Ce dépot rassemble des informations au sujet du projet porté par l'association C.O.R.S.I.C.A. à travers l'Institut Mariani qui en est une émanation.
 
@@ -217,5 +229,3 @@ Reste donc à trouver comment valoriser le surplus. A terme ça pourrait être e
 L'institut s'est inscrite à cet appel à projet avec le projet Mariani Village - résidence d'étudiants éco-responsable à base de tiny houses.
 
 [APPEL A PROJETS INNOVANTS] du CREDIT AGRICOLE DE LA CORSE
-
-
