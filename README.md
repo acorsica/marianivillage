@@ -9,7 +9,7 @@ Documents de référence :
 
 - [`CADRAGE.md`](CADRAGE.md) — cadrage synthétique actuel du projet.
 - [`STATUT.md`](STATUT.md) — statut du dépôt et articulation institutionnelle.
-- [`JeanHuguesRobert/FractaVolta/mariani_village.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/mariani_village.md) — document source technique et conceptuel dans le corpus FractaVolta.
+- [`JeanHuguesRobert/FractaVolta/mariani_village.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/mariani_village.md) — document source technique et conceptuel dans le corpus FractaVolta.
 
 Le contenu ci-dessous conserve l’historique du projet, notamment des publications et éléments de conception antérieurs.
 

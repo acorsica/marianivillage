@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "operational-note"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "repository-status"
+classification_confidence: "medium"
+---
+
 # Statut du dépôt `acorsica/marianivillage`
 
 Ce dépôt documente le projet **Mariani Village**.
@@ -16,7 +27,7 @@ Il documente une initiative portée historiquement par C.O.R.S.I.C.A. à travers
 
 Le document conceptuel et technique le plus structurant actuellement identifié est :
 
-- [`JeanHuguesRobert/FractaVolta/mariani_village.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/mariani_village.md)
+- [`JeanHuguesRobert/FractaVolta/mariani_village.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/mariani_village.md)
 
 Ce document décrit Mariani Village comme une flotte d’habitat relocalisable fondée sur le container ISO 20 pieds comme unité physique minimale.
 

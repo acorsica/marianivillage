@@ -1,3 +1,14 @@
+---
+document_role: "source"
+document_kind: "institutional-document"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "institutional-document"
+classification_confidence: "medium"
+---
+
 # Mariani Village — cadrage actuel
 
 **Mariani Village** est une initiative d’habitat minimaliste autonome à base de containers maritimes, destinée à loger des étudiants pendant l’année universitaire et des touristes ou occupants saisonniers pendant la saison estivale.
@@ -28,7 +39,7 @@ Cette mobilité n’est pas pensée comme une rotation permanente, mais comme un
 
 Document source de référence :
 
-- [`JeanHuguesRobert/FractaVolta/mariani_village.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/mariani_village.md)
+- [`JeanHuguesRobert/FractaVolta/mariani_village.md`](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/mariani_village.md)
 
 ## Statut du dépôt
 

@@ -3,6 +3,14 @@ title: "Research Index - Mariani Village"
 description: "Navigation index for Mariani Village documents in the C.O.R.S.I.C.A. corpus."
 last_modified_at: 2026-06-19
 corpus_role: index
+document_role: "index"
+document_kind: "research-index"
+visibility: "public"
+lifecycle_state: "active"
+classification_source: "cogentia.js"
+classification_version: "1"
+classification_rule: "research-index"
+classification_confidence: "strong"
 ---
 # Research Index - Mariani Village
 
@@ -19,6 +27,6 @@ Mariani Village documents a minimalist autonomous housing initiative for student
 
 ## Related
 
-- [FractaVolta Mariani Village source](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/mariani_village.md)
+- [FractaVolta Mariani Village source](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/mariani_village.md)
 - [Institut Mariani initiatives](https://github.com/acorsica/institut-mariani/blob/main/initiatives.md)
 
