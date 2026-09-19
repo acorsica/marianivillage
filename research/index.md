@@ -47,3 +47,13 @@ Mariani Village documents a minimalist autonomous housing initiative for student
 - [FractaVolta Mariani Village source](https://github.com/JeanHuguesRobert/FractaVolta/blob/main/research/mariani_village.md)
 - [Institut Mariani initiatives](https://github.com/acorsica/institut-mariani/blob/main/initiatives.md)
 
+<!-- BEGIN_AUTO: index_catalog -->
+## Corpus catalog
+
+*Generated navigation. Editorial sections above remain human-maintained.*
+
+| Document | Role | Updated |
+|---|---|---|
+| [marianivillage agent mandate](../AGENTS.md) | operational | 2026-08-11 |
+
+<!-- END_AUTO: index_catalog -->
